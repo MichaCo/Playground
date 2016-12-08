@@ -11,7 +11,8 @@
   },
 
   "dependencies": {
-    "StackExchange.Redis": "1.1.572-alpha"
+    "StackExchange.Redis": "1.1.572-alpha",
+    "Newtonsoft.Json": "7.0.1"
   },
 
   "commands": {
@@ -19,13 +20,17 @@
   },
 
   "frameworks": {
+    "dnx45": {
+
+    },
     "dnxcore50": {
       "dependencies": {
-        "Microsoft.CSharp": "4.0.1-beta-23516",
-        "System.Collections": "4.0.11-beta-23516",
+        "System.Runtime": "4.0.21-rc3-23720",
+        "Microsoft.CSharp": "4.0.1-*",
+        "System.Collections": "4.0.11-*",
         "System.Console": "4.0.0-beta-23516",
-        "System.Linq": "4.0.1-beta-23516",
-        "System.Threading": "4.0.11-beta-23516"
+        "System.Linq": "4.1.0-*",
+        "System.Threading": "4.0.11-*"
       }
     }
   }
