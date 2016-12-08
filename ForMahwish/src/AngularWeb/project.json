@@ -1,9 +1,11 @@
 ﻿{
   "version": "1.0.0-*",
   "buildOptions": {
-    "emitEntryPoint": true
+    "emitEntryPoint": true,
+    "compile": {
+      "exclude": ["node_modules"]
+    }
   },
-
   "dependencies": {
     "Microsoft.NETCore.App": {
       "type": "platform",
@@ -16,7 +18,6 @@
     "Microsoft.AspNetCore.Http.Abstractions": "1.1.0",
     "Microsoft.AspNetCore.Hosting.Abstractions": "1.1.0"
   },
-
   "frameworks": {
     "netcoreapp1.0": {
     }
