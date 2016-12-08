@@ -10,7 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		global.json = global.json
 	EndProjectSection
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "AngularWeb", "src\AngularWeb\AngularWeb.xproj", "{EB88CD30-5650-4612-8D3F-D741F4F55AF2}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "AngularWebYo", "src\AngularWebYo\AngularWebYo.xproj", "{952620E6-26FF-4631-BD83-17855687B76C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,15 +18,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EB88CD30-5650-4612-8D3F-D741F4F55AF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EB88CD30-5650-4612-8D3F-D741F4F55AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EB88CD30-5650-4612-8D3F-D741F4F55AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EB88CD30-5650-4612-8D3F-D741F4F55AF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{952620E6-26FF-4631-BD83-17855687B76C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{952620E6-26FF-4631-BD83-17855687B76C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{952620E6-26FF-4631-BD83-17855687B76C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{952620E6-26FF-4631-BD83-17855687B76C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{EB88CD30-5650-4612-8D3F-D741F4F55AF2} = {A25C1D8A-D920-48D4-9D4B-6F36D1EB8EB6}
+		{952620E6-26FF-4631-BD83-17855687B76C} = {A25C1D8A-D920-48D4-9D4B-6F36D1EB8EB6}
 	EndGlobalSection
 EndGlobal
